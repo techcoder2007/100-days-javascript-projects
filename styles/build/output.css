@@ -1,5 +1,4 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
-
 * {
   margin: 0;
   padding: 0;
@@ -122,18 +121,17 @@ input::placeholder {
   .container {
     width: 90%;
   }
-
   .weather__header {
     flex-direction: column;
   }
-
   .weather__units {
     margin-top: 1rem;
   }
 }
-
 @media (max-width: 400px) {
   .weather__info {
     grid-template-columns: none;
   }
 }
+
+/*# sourceMappingURL=output.css.map */
